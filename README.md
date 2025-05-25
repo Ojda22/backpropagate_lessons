@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Welcome to the Backpropagate me codebase! 🚀👩🏻‍💻‍
+Welcome to the <a href="https://www.backpropagate.me/"> Backpropagate.me </a> codebase! 🚀👩🏻‍💻‍
 <h2 align="center">
     Let's experiment and learn great things together! 🌌🔭
 </h2>
