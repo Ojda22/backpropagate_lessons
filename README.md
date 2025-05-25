@@ -17,19 +17,22 @@ Welcome to the Backpropagate me codebase! 🚀👩🏻‍💻‍
 
 First and only requirement is to have Python 3.10 or higher installed on your machine.
 
-To run and setup the repo locally, you can use the following commands:
+To run and setup the repo locally, you need to install poetry for dependency management:
+To install poetry, you can follow the instructions from the [official documentation](https://python-poetry.org/docs/#installation).
+
+And then you can use the following commands:
 
 ```commandline
 poetry update && source .venv/bin/activate
 ```
-This will install all the necessary dependencies and activate the virtual environment.
+This will install all the necessary dependencies and activate the virtual environment such as that you don't contaminate your global Python environment with the dependencies of this project.
 
-To install poetry, you can follow the instructions from the [official documentation](https://python-poetry.org/docs/#installation).
-
-
-
-To run any of the scripts it will often be enough to run:
+To run any of the scripts it will often be enough to run (unless otherwise specified in the script directory README):
 ```commandline
 python <path_to_the_script> / <script_name>.py
 ```
+
+Happy learning and experimenting! 
+
+If you have any questions or suggestions, feel free to open an issue or a pull request! 🚀
 
