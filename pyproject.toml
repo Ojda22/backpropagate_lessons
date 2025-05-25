@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "backpropagate-lessons"
+version = "0.1.0"
+description = ""
+authors = ["Milos Ojdanic"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
