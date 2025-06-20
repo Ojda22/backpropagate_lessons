@@ -13,7 +13,7 @@ conda install graphviz
 python -m search_algorithms.<path>.<script_name>
 ```
 
-# Example for running the MinMax algorithm:
+### Example for running the MinMax algorithm:
 ```commandline
 conda env create search_algorithms
 conda activate search_algorithms
@@ -21,7 +21,7 @@ conda install graphviz
 python -m search_algorithms.minmax.main
 ```
 
-# Example for running Markov Decision Process:
+### Example for running Markov Decision Process:
 ```commandline
 conda activate search_algorithms
 conda install numpy

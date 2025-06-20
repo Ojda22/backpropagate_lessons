@@ -13,6 +13,7 @@ Welcome to the <a href="https://www.backpropagate.me/"> Backpropagate.me </a> co
 1. [README.md](./README.md) - This file, which provides an overview of the project and how to get started.
 2. [evoluationary_algorithms](./evolutionary_algorithms) - Contains the implementation of various evolutionary algorithms.
 3. [search_algorithms](./search_algorithms) - Contains the implementation of various search algorithms.
+4. [dynamic_programming](./dynamic_programming) - Contains the implementation of various dynamic programming algorithms and examples.
 
 # How to get started 🛠️
 
