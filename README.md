@@ -14,6 +14,7 @@ Welcome to the <a href="https://www.backpropagate.me/"> Backpropagate.me </a> co
 2. [evoluationary_algorithms](./evolutionary_algorithms) - Contains the implementation of various evolutionary algorithms.
 3. [search_algorithms](./search_algorithms) - Contains the implementation of various search algorithms.
 4. [dynamic_programming](./dynamic_programming) - Contains the implementation of various dynamic programming algorithms and examples.
+5. [sanity_check_reviews](./sanity_check_reviews) - Contains the implementation of various sanity check reviews for different research papers.
 
 # How to get started 🛠️
 
