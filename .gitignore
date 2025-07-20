@@ -1,6 +1,7 @@
 # Fat data
 
 sanity_check_reviews/coconut/saved_models/*
+sanity_check_reviews/coconut/data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
